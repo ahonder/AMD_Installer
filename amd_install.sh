@@ -95,7 +95,7 @@ case $opt in
         version="19.30-838629-ubuntu-18.04";break
     ;;
 	"20.30-1109583-ubuntu-18.04")
-	wget https://drivers.amd.com/drivers/linux/amdgpu-pro-20.30-1109583-ubuntu-18.04.tar.xz
+	wget https://fichiers.touslesdrivers.com/65569/amdgpu-pro-20.30-1109583-ubuntu-18.04.tar.xz
         version="20.30-1109583-ubuntu-18.04";break
 	;;
 	"Quit")
